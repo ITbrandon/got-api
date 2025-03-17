@@ -1,0 +1,19 @@
+const express = require('express');
+const characters = require('./characters.json')
+const path = require('path');
+const app = express();
+const port = process.env.PORT || 3000;
+
+app.use('/assets', express.static(path.join(__dirname, 'assets')));
+
+app.get('/', (req, res) => {
+    res.send('Welcome to the Game of Thrones API!');
+});
+
+app.get('/api/characters', (req, res) => {
+    res.json(characters)
+})
+
+app.listen(port, () => {
+    console.log(`Server running at http://localhost:${port}`);
+});
