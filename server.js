@@ -1,5 +1,6 @@
 const express = require('express');
 const characters = require('./characters.json')
+const houses = require('./houses.json')
 const path = require('path');
 const cors = require("cors");
 const app = express();
@@ -15,6 +16,10 @@ app.get('/', (req, res) => {
 
 app.get('/api/characters', (req, res) => {
     res.json(characters)
+})
+
+app.get('/api/houses', (req, res) => {
+    res.json(houses)
 })
 
 app.listen(port, () => {
