@@ -17,8 +17,7 @@
     "title": "King of the North",
     "family": "House Stark",
     "image": "https://got-api-production.up.railway.app/assets/john-snow.avif",
-    "description": "Jon Snow, the enigmatic and honorable son of Ned Stark, is raised as a Stark but carries the burden of being a “bastard.” Joining the Night’s Watch to defend the realm from the dangers beyond the Wall, Jon rises through the ranks due to his leadership, bravery, and sense of duty. As the series unfolds, he learns of his true heritage and becomes a key figure in the fight against the growing threat of the White Walkers. Jon’s journey is marked by his struggle between duty and personal desires, forging his identity as both a leader and a protector of the realm.",
-    "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg"
+    "description": "Jon Snow, the enigmatic and honorable son of Ned Stark, is raised as a Stark but carries the burden of being a “bastard.” Joining the Night’s Watch to defend the realm from the dangers beyond the Wall, Jon rises through the ranks due to his leadership, bravery, and sense of duty. As the series unfolds, he learns of his true heritage and becomes a key figure in the fight against the growing threat of the White Walkers. Jon’s journey is marked by his struggle between duty and personal desires, forging his identity as both a leader and a protector of the realm."
   },
   {
     "id": 3,
@@ -27,8 +26,8 @@
     "fullName": "Arya Stark",
     "title": "No One",
     "family": "House Stark",
-    "image": "arya-stark.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/arya-stark.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/aria-stark.avif",
+    "description": "Arya Stark, the youngest daughter of House Stark, is a fiercely independent and determined warrior. Rejecting the traditional expectations of noblewomen, she trains in swordplay and survival, embarking on a long and dangerous journey of vengeance after her family is torn apart. Under the tutelage of the Faceless Men, she becomes a skilled assassin, mastering the art of disguise and stealth. Arya’s path is one of resilience and transformation, as she fights to reclaim her identity while shaping her own destiny in a world that seeks to control her."
   },
   {
     "id": 4,
@@ -37,8 +36,8 @@
     "fullName": "Sansa Stark",
     "title": "Lady of Winterfell",
     "family": "House Stark",
-    "image": "sansa-stark.jpeg",
-    "imageUrl": "https://thronesapi.com/assets/images/sansa-stark.jpeg"
+    "image": "https://got-api-production.up.railway.app/assets/sansa-stark.avif",
+    "description": "Sansa Stark, the eldest daughter of House Stark, begins her journey as a naive young girl dreaming of romance and courtly life. However, after being thrust into the dangerous world of politics and betrayal, she endures immense hardship and learns to navigate the deadly game of thrones. Through her experiences in King’s Landing, the Vale, and Winterfell, Sansa grows into a shrewd and resilient leader. With a keen mind for strategy and diplomacy, she reclaims her power and emerges as a true Stark, determined to protect her family and her home."
   },
   {
     "id": 5,
@@ -47,8 +46,8 @@
     "fullName": "Brandon Stark",
     "title": "Lord of Winterfell",
     "family": "House Stark",
-    "image": "bran-stark.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/bran-stark.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/bran-stark.webp",
+    "description": "Brandon Stark, the second son of House Stark, begins as an adventurous boy with dreams of becoming a great knight. After a tragic fall leaves him paralyzed, he embarks on a mystical journey that leads him beyond the Wall. Guided by visions and ancient wisdom, he discovers his destiny as the Three-Eyed Raven, a being with the ability to see across time. As Bran sheds his past self, he becomes a figure of immense knowledge and power, playing a crucial role in the fate of Westeros as he embraces his new identity and purpose."
   },
   {
     "id": 6,
@@ -57,8 +56,8 @@
     "fullName": "Ned Stark",
     "title": "Lord of Winterfell",
     "family": "House Stark",
-    "image": "ned-stark.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/ned-stark.jpg",
+    "description": "Ned Stark, the honorable Lord of Winterfell and Warden of the North, is a man of unwavering loyalty and duty. A devoted father and husband, he values justice and integrity above all else. When called to serve as Hand of the King to his old friend Robert Baratheon, Ned is thrust into the treacherous politics of King’s Landing. His relentless pursuit of the truth places him in the crosshairs of powerful enemies, leading to a tragic fate. Though his time is short, Ned’s legacy endures through his children and the values he instilled in them."
   },
   {
     "id": 7,
@@ -67,28 +66,28 @@
     "fullName": "Robert Baratheon",
     "title": "Lord of the Seven Kingdoms",
     "family": "House Baratheon",
-    "image": "robert-baratheon.jpeg",
-    "imageUrl": "https://thronesapi.com/assets/images/robert-baratheon.jpeg"
+    "image": "https://got-api-production.up.railway.app/assets/robert-baratheon.avif",
+    "description": "Robert Baratheon, the once-mighty warrior who claimed the Iron Throne through rebellion, is a larger-than-life figure known for his strength, charisma, and love of revelry. Once driven by passion and vengeance, he becomes a king more interested in feasting and drinking than ruling. His reign is marked by political neglect, as his advisors and rivals maneuver for power behind his back. Despite his flaws, Robert remains a man of bold spirit and a relic of a bygone era, his rule setting the stage for the chaos that follows his untimely demise."
   },
   {
     "id": 8,
-    "firstName": "Jamie",
+    "firstName": "Jaime",
     "lastName": "Lannister",
-    "fullName": "Jamie Lannister",
-    "title": "Lord Commander of the Kingsguard",
+    "fullName": "Jaime Lannister",
+    "title": "Kingslayer",
     "family": "House Lannister",
-    "image": "jaime-lannister.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/jaime-lannister.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/jaime-lannister.webp",
+    "description": "Jaime Lannister, known as the Kingslayer, is one of the most skilled knights in Westeros and a member of the powerful House Lannister. Once revered for his combat prowess, his reputation is forever tarnished after he kills the Mad King to save the realm. Though arrogant and fiercely loyal to his family, Jaime’s journey is one of redemption as he struggles to define his own honor beyond his infamous title. Torn between his love for his sister Cersei and his growing sense of duty, Jaime’s path is marked by transformation, sacrifice, and the search for his true identity."
   },
   {
     "id": 9,
     "firstName": "Cersei",
     "lastName": "Lannister",
     "fullName": "Cersei Lannister",
-    "title": "Lady of Casterly Rock",
+    "title": "Queen of the Seven Kingdoms",
     "family": "House Lannister",
-    "image": "cersei.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/cersei.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/cersei-lannister.webp",
+    "description": "Cersei Lannister, the cunning and ambitious Queen of Westeros, is driven by an unyielding desire for power and a fierce devotion to her family. As the daughter of Tywin Lannister, she learns to navigate the treacherous world of politics, using manipulation and ruthlessness to secure her position. Obsessed with protecting her children and maintaining control, she stops at nothing to eliminate her enemies. Though brilliant and formidable, her paranoia and thirst for dominance ultimately lead to her downfall, proving that even the most ruthless rulers are not invincible."
   },
   {
     "id": 10,
@@ -96,9 +95,9 @@
     "lastName": "Stark",
     "fullName": "Catelyn Stark",
     "title": "Lady of Winterfell",
-    "family": "House Stark",
-    "image": "catelyn-stark.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/catelyn-stark.jpg"
+    "family": "House Stark and House Tully",
+    "image": "https://got-api-production.up.railway.app/assets/catelyn-stark.avif",
+    "description": "Catelyn Stark, the proud and devoted matriarch of House Stark, is a woman of fierce loyalty and deep love for her family. Born a Tully of Riverrun, she embraces her role as Lady of Winterfell, always striving to protect her children and uphold her family's honor. After her husband Ned is drawn into the deadly politics of King’s Landing, she takes an active role in the unfolding war, making difficult choices in a desperate bid to keep her family safe. Though her journey is marked by tragedy and loss, her strength and determination leave a lasting impact on the fate of Westeros."
   },
   {
     "id": 11,
@@ -107,8 +106,8 @@
     "fullName": "Rob Stark",
     "title": "Lord of Winterfell",
     "family": "House Stark",
-    "image": "robb-stark.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/robb-stark.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/robb-stark.avif",
+    "description": "Robb Stark, the eldest son of Ned and Catelyn Stark, rises to prominence as the Young Wolf after his father’s execution. Determined to avenge his family and secure the North’s independence, he proves himself a brilliant strategist and fearless leader on the battlefield. However, his honor and emotions often conflict with the harsh realities of war. Despite his victories, a fateful decision seals his tragic fate, making him a symbol of both Stark resilience and the brutal cost of betrayal in the game of thrones."
   },
   {
     "id": 12,
@@ -117,8 +116,8 @@
     "fullName": "Theon Greyjoy",
     "title": "Captain of Sea Bitch",
     "family": "House Greyjoy",
-    "image": "theon.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/theon.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/theon-greyjoy.webp",
+    "description": "Theon Greyjoy, the heir to the Iron Islands, is raised as a ward of House Stark after his father’s failed rebellion. Though he grows close to the Stark family, he struggles with his identity, torn between loyalty to the North and his desire to prove himself to his own people. In a bid for recognition, he betrays the Starks, only to suffer a brutal downfall at the hands of Ramsay Bolton. Stripped of his pride and identity, Theon embarks on a painful journey of redemption, ultimately finding the strength to reclaim his honor and fight for those he once wronged."
   },
   {
     "id": 13,
@@ -126,9 +125,9 @@
     "lastName": "Baratheon",
     "fullName": "Joffrey Baratheon",
     "title": "Lord of the Seven Kingdoms, Protector of the Realm",
-    "family": "House Lanister",
-    "image": "joffrey.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/joffrey.jpg"
+    "family": "House Baratheon and House Lannister",
+    "image": "https://got-api-production.up.railway.app/assets/joffrey-baratheon.webp",
+    "description": "Joffrey Baratheon, the sadistic and cruel eldest son of Cersei Lannister, is a king whose reign is marked by tyranny and violence. Though presented as the legitimate heir to the Iron Throne, his true parentage is a closely guarded secret. Joffrey revels in his power, inflicting pain and suffering on those around him, with little regard for the consequences of his actions. His arrogance and brutality make him one of the most despised figures in Westeros. Ultimately, his cruel nature leads to his untimely and dramatic downfall, cementing his place as one of the most hated kings in history."
   },
   {
     "id": 14,
@@ -137,8 +136,8 @@
     "fullName": "Tyrion Lannister",
     "title": "Hand of the Queen",
     "family": "House Lanister",
-    "image": "tyrion-lannister.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/tyrion-lannister.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/tyrion-lannister.avif",
+    "description": "Tyrion Lannister, the sharp-witted and resourceful youngest son of Tywin Lannister, is often underestimated due to his stature as a dwarf. Despite facing disdain and prejudice from his family and society, Tyrion uses his intellect, charm, and strategic mind to navigate the treacherous politics of Westeros. Known for his clever repartees and deep sense of justice, he becomes an unlikely but effective ally and ruler, often finding ways to outmaneuver those who seek to undermine him. Tyrion's journey is one of resilience and self-discovery as he balances his loyalty to his family with his desire to prove his worth to the world."
   },
   {
     "id": 15,
@@ -147,8 +146,8 @@
     "fullName": "Sandor Clegane",
     "title": "The Hound",
     "family": "House Clegane",
-    "image": "the-hound.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/the-hound.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/sandor-clegane.jpeg",
+    "description": "Sandor Clegane, known as \"The Hound,\" is a fearsome warrior with a brutal reputation and a deep hatred for the nobility he serves. Scarred both physically and emotionally, Sandor is a man of contradictions—violent yet strangely honorable in his own way. Though he is often seen as a ruthless enforcer, he possesses a begrudging sense of morality, especially when it comes to protecting those he deems innocent. Throughout his journey, Sandor’s inner turmoil and quest for redemption become central to his character, as he confronts his own demons and the brutality of the world around him."
   },
   {
     "id": 16,
@@ -157,8 +156,8 @@
     "fullName": "Petyr Baelish",
     "title": "Littlefinger",
     "family": "House Baelish",
-    "image": "littlefinger.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/littlefinger.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/petyr-baelish.jpg",
+    "description": "Petyr Baelish, also known as Littlefinger, is a master manipulator and schemer, whose rise from humble beginnings to the heights of power is built on cunning, ambition, and betrayal. A former knight of modest birth, he quickly learns to navigate the complex political landscape of Westeros, using his vast network of spies and a keen understanding of human nature to control events from the shadows. Littlefinger’s thirst for power drives him to sow chaos and divide the realm, always with an eye on expanding his own influence. His ultimate goal is to sit on the Iron Throne, and he will stop at nothing to achieve it."
   },
   {
     "id": 17,
@@ -167,8 +166,8 @@
     "fullName": "Davos Seaworth",
     "title": "Hand of the King",
     "family": "House Seaworth",
-    "image": "davos-seaworth.png",
-    "imageUrl": "https://thronesapi.com/assets/images/davos-seaworth.png"
+    "image": "https://got-api-production.up.railway.app/assets/davos-seaworth.avif",
+    "description": "Davos Seaworth, known as the Onion Knight, is a former smuggler who rises to prominence due to his unwavering loyalty and sense of honor. Despite his humble beginnings, Davos becomes a trusted advisor to Stannis Baratheon and later to Jon Snow. His loyalty is matched only by his pragmatism and his belief in doing what’s right, even when faced with impossible choices. With a sharp mind and a strong moral compass, Davos often finds himself navigating the complex world of politics and war, always striving to protect those he holds dear and maintain his integrity."
   },
   {
     "id": 18,
@@ -177,8 +176,8 @@
     "fullName": "Stannis Baratheon",
     "title": "Lord of Dragonstone",
     "family": "House Baratheon",
-    "image": "stannis.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/stannis.webp",
+    "description": "Stannis Baratheon, the stern and determined Lord of Storm's End, is a man driven by a rigid sense of duty and justice. The younger brother of King Robert Baratheon, Stannis claims the Iron Throne after Robert’s death, believing himself the rightful ruler of Westeros. A harsh and unyielding leader, he often clashes with those around him due to his uncompromising nature. Stannis places his faith in the Lord of Light and the guidance of the Red Priestess, Melisandre, even as his decisions grow increasingly controversial. His quest for power leads him into a brutal struggle for the throne, where his rigid sense of honor ultimately brings about his tragic downfall."
   },
   {
     "id": 19,
@@ -187,8 +186,8 @@
     "fullName": "Varys",
     "title": "Master of Whisperers",
     "family": "Unknown",
-    "image": "varys.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/varys.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/maester-varys.avif",
+    "description": "Varys, known as the Spider, is a master of espionage and manipulation in the court of Westeros. A eunuch with a mysterious past, Varys commands a vast network of spies, gathering secrets and information from across the realm. Driven by his belief in the greater good of the realm, he is a pragmatist who operates behind the scenes, playing political games with subtlety and finesse. Though his true loyalties remain unclear, Varys consistently seeks to balance power in a way that will bring stability to the realm, often working in the shadows to influence the decisions of kings and queens alike."
   },
   {
     "id": 20,
@@ -196,9 +195,9 @@
     "lastName": "Drogo",
     "fullName": "Khal Drogo",
     "title": "Khal",
-    "family": "House Targaryen",
-    "image": "khal-drogo.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/khal-drogo.jpg"
+    "family": "Dothraki",
+    "image": "https://got-api-production.up.railway.app/assets/khal-drogo.webp",
+    "description": "Khal Drogo, the mighty Dothraki warlord, is a fierce and imposing leader of the largest khalasar in the world. Known for his unmatched skill in battle and his terrifying presence, Drogo is a symbol of strength and power among the nomadic Dothraki people. His bond with Daenerys Targaryen, whom he marries, begins as a political alliance but transforms into a deep and complex relationship. Despite his violent and ruthless nature, Drogo shows a surprising depth of loyalty and affection toward Daenerys. His untimely death sets in motion the events that propel Daenerys toward her destiny as the Mother of Dragons."
   },
   {
     "id": 21,
@@ -207,8 +206,8 @@
     "fullName": "Margaery Tyrell",
     "title": "Queen of the Seven Kingdoms",
     "family": "House Tyrell",
-    "image": "margaery-tyrell.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/margaery-tyrell.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/margaery-tyrell.avif",
+    "description": "Margaery Tyrell, the beautiful and politically astute daughter of House Tyrell, is a key player in the game of thrones. Known for her charm, grace, and deep understanding of court politics, Margaery quickly gains favor with powerful men, including King Renly Baratheon and later King Joffrey Baratheon. However, her true strength lies in her ability to navigate the treacherous world of Westeros with diplomacy and subtlety. As Queen, she uses her influence to protect her family and seek peace, all while being a shrewd operator who balances love, loyalty, and ambition. Her ultimate fate is shaped by her unyielding desire to secure her family's legacy."
   },
   {
     "id": 22,
@@ -217,8 +216,8 @@
     "fullName": "Ygritte",
     "title": "Spearwife",
     "family": "Free Folk",
-    "image": "ygritte.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/ygritte.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/ygritte.avif",
+    "description": "Ygritte, a fierce and independent wildling woman, is a skilled archer and a loyal member of the Free Folk. Known for her fiery red hair and bold personality, Ygritte plays a pivotal role in Jon Snow’s journey beyond the Wall. She is both a lover and a fierce opponent to Jon, challenging his loyalties and beliefs as they navigate the complexities of love and war. Her passionate and unyielding nature makes her a memorable figure, as she stands firmly for the freedom of the wildlings, even in the face of death. Ygritte’s relationship with Jon Snow is one of love and loss, leaving a lasting impact on him."
   },
   {
     "id": 23,
@@ -227,8 +226,8 @@
     "fullName": "Brienne of Tarth",
     "title": "Lady Brienne",
     "family": "Tarth",
-    "image": "brienne-tarth.jpeg",
-    "imageUrl": "https://thronesapi.com/assets/images/brienne-tarth.jpeg"
+    "image": "https://got-api-production.up.railway.app/assets/brienne-of-tarth.avif",
+    "description": "Brienne of Tarth, known as the Maid of Tarth, is a formidable warrior with unmatched honor and loyalty. Despite her unconventional appearance for a knight, Brienne’s strength, skill, and unwavering dedication to her oaths make her one of the most respected fighters in Westeros. Driven by a deep sense of duty, she serves Lady Stark and later swears to protect the lives of those she swears allegiance to, including Jaime Lannister. Brienne’s journey is one of self-acceptance and proving her worth in a world that often underestimates her. Her steadfast loyalty and moral compass make her a beacon of integrity amidst the chaos of the realm."
   },
   {
     "id": 24,
@@ -237,18 +236,18 @@
     "fullName": "Missandei",
     "title": "Queen's Personal Advisor",
     "family": "Naathi",
-    "image": "missandei.jpeg",
-    "imageUrl": "https://thronesapi.com/assets/images/missandei.jpeg"
+    "image": "https://got-api-production.up.railway.app/assets/missandei.jpg",
+    "description": "Missandei, a former slave from Naath, becomes one of Daenerys Targaryen’s most trusted advisors and close confidantes. Known for her intelligence, grace, and loyalty, she serves as Daenerys’s translator and right-hand, helping navigate the complexities of foreign politics and diplomacy. Despite her past as a slave, Missandei’s strength lies in her ability to adapt, find purpose, and stand by Daenerys through her journey to reclaim the Iron Throne. With a calm and composed demeanor, Missandei proves to be an invaluable ally, always advocating for justice, freedom, and the protection of the innocent."
   },
   {
     "id": 25,
-    "firstName": "Gilly",
-    "lastName": "None",
-    "fullName": "Gilly",
-    "title": "The Rabbit Keeper",
-    "family": "None",
-    "image": "gilly.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/gilly.jpg"
+    "firstName": "Samwell",
+    "lastName": "Tarly",
+    "fullName": "Samwell Tarly",
+    "title": "Maester",
+    "family": "House Tarly",
+    "image": "https://got-api-production.up.railway.app/assets/samwell.avif",
+    "description": "Samwell Tarly, a kind-hearted and intelligent member of the Night’s Watch, is often considered an unlikely hero. Initially ridiculed by his family for his lack of combat skills, Sam finds a new sense of purpose and courage at the Wall. His deep knowledge, bravery in the face of danger, and strong moral compass prove invaluable as he uncovers critical information about the White Walkers. Despite his insecurities and fears, Sam grows into a capable leader, loyal friend, and protector of the realm. His journey is one of self-discovery, highlighting the power of intellect, friendship, and standing up for what is right."
   },
   {
     "id": 26,
@@ -256,9 +255,9 @@
     "lastName": "Targaryan",
     "fullName": "Viserys Targaryn",
     "title": "King Viserys III",
-    "family": "Targaryan",
-    "image": "viserys-targaryan.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/viserys-targaryan.jpg"
+    "family": "House Targaryan",
+    "image": "https://got-api-production.up.railway.app/assets/viserys-targaryen.avif",
+    "description": "Viserys Targaryen, the exiled prince of House Targaryen, is a man consumed by his obsession with reclaiming the Iron Throne. After the fall of his family’s dynasty, he is forced to live in exile, clinging to the belief that his birthright will one day be restored. Viserys’s arrogance and desperation drive his actions, often leading him to make reckless decisions and alienate those around him. His inability to adapt to his new circumstances and his growing madness ultimately seal his tragic fate. Viserys’s story serves as a warning about the dangers of pride and unchecked ambition."
   },
   {
     "id": 27,
@@ -266,9 +265,9 @@
     "lastName": "Stark",
     "fullName": "Rickon Stark",
     "title": "Prince",
-    "family": "Stark",
-    "image": "rickon.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/rickon.jpg"
+    "family": "House Stark",
+    "image": "https://got-api-production.up.railway.app/assets/rickon-stark.webp",
+    "description": "Rickon Stark, the youngest son of Eddard and Catelyn Stark, is a quiet and often overlooked member of House Stark. As a child, he is largely absent from the larger events unfolding in Westeros, growing up in the safety of Winterfell. After the fall of his family, Rickon is hidden away for his protection, and his return to the realm is brief but significant. Though little is known about his character, his survival and eventual attempt to reclaim his family’s home mark him as a Stark who embodies the resilience and strength of his house, even in the face of overwhelming odds."
   },
   {
     "id": 28,
@@ -276,29 +275,29 @@
     "lastName": "Bolton",
     "fullName": "Roose Bolton",
     "title": "Lord of Dreadfort",
-    "family": "Bolton",
-    "image": "roose-bolton.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/roose-bolton.jpg"
+    "family": "House Bolton",
+    "image": "https://got-api-production.up.railway.app/assets/roose-bolton.avif",
+    "description": "Roose Bolton, the cold and calculating Lord of the Dreadfort, is a man known for his cruelty and ruthless ambition. As head of House Bolton, he becomes a key player in the political maneuvering of Westeros, often aligning with the Lannisters to strengthen his position. Roose’s notoriety is built on his brutal methods, including the infamous practice of flaying his enemies. His icy demeanor and strategic mind make him a feared and efficient leader, but his thirst for power ultimately leads to his betrayal and death at the hands of his own son, Ramsay. Roose’s legacy is one of terror, cunning, and a relentless pursuit of power."
   },
   {
     "id": 29,
     "firstName": "Daario",
     "lastName": "Naharis",
-    "fullName": "Daario",
+    "fullName": "Daario Naharis",
     "title": "Commander of the Second Sons",
     "family": "Naharis",
-    "image": "daario.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/daario.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/daario-naharis.jpg",
+    "description": "Daario Naharis is a charismatic and skilled warrior from the city of Meereen, known for his striking appearance, confidence, and loyalty to Daenerys Targaryen. Initially serving as a mercenary leader of the Second Sons, Daario becomes one of Daenerys's closest allies, helping her in her quest to conquer Slaver’s Bay. With his charm and martial prowess, he quickly wins her favor and becomes her lover. Though his passion for Daenerys is evident, Daario is also a man of ambition, always seeking opportunities to prove his worth and protect those he cares about. His journey is marked by his devotion to Daenerys and his role in her rise to power."
   },
   {
     "id": 30,
     "firstName": "Shae",
-    "lastName": "",
+    "lastName": "None",
     "fullName": "Shae",
     "title": "Mistress",
     "family": "Lorathi",
-    "image": "shae.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/shae.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/shae.avif",
+    "description": "Shae is a strong-willed and resourceful woman who becomes Tyrion Lannister's lover and confidante. Initially introduced as a camp follower, she earns Tyrion’s affection and grows close to him, offering him comfort and companionship amidst the political chaos of King's Landing. Despite her humble beginnings, Shae is sharp, independent, and pragmatic, navigating the dangerous world of Westeros with cunning and a strong sense of self-preservation. However, her loyalty is tested when the complex relationships of the Lannisters and the politics of the throne come into play, leading to a tragic and heartbreaking end."
   },
   {
     "id": 31,
@@ -306,9 +305,9 @@
     "lastName": "Baratheon",
     "fullName": "Tommen Baratheon",
     "title": "Prince",
-    "family": "Baratheon",
-    "image": "tommen.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/tommen.jpg"
+    "family": "House Baratheon and House Lannister",
+    "image": "https://got-api-production.up.railway.app/assets/tommen-baratheon.avif",
+    "description": "Tommen Baratheon, the youngest son of Cersei Lannister and the late King Robert Baratheon, is a gentle and kind-hearted boy who ascends to the throne after the death of his older brother Joffrey. Unlike his cruel sibling, Tommen lacks the ruthlessness typically associated with rulers, instead showing a sincere desire to do good. However, his youth and naivety make him a puppet in the hands of those around him, including his mother and the High Sparrow. As king, Tommen struggles to assert his authority and navigate the complex political landscape, ultimately facing a tragic fate. His story is one of innocence lost amidst the power struggles of Westeros."
   },
   {
     "id": 32,
@@ -316,9 +315,9 @@
     "lastName": "Baratheon",
     "fullName": "Gendry Baratheon",
     "title": "Lord of Storm's End",
-    "family": "Baratheon",
-    "image": "gendry.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/gendry.jpg"
+    "family": "House Baratheon",
+    "image": "https://got-api-production.up.railway.app/assets/gendry.webp",
+    "description": "Gendry, the bastard son of King Robert Baratheon, begins his journey as a blacksmith's apprentice in King’s Landing, unaware of his royal blood. A strong and resourceful young man, Gendry is thrust into the larger conflicts of Westeros as he becomes involved with the Brotherhood Without Banners and eventually joins forces with Jon Snow and the Stark cause. Despite his humble beginnings, Gendry proves to be a skilled warrior and a man of principle. His royal heritage, revealed later in the series, offers him a potential claim to the throne, but Gendry’s true loyalty lies in forging his own path, away from the manipulations of power."
   },
   {
     "id": 33,
@@ -326,19 +325,19 @@
     "lastName": "Mormont",
     "fullName": "Jorah Mormont",
     "title": "Knight",
-    "family": "Mormont",
-    "image": "jorah-mormont.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/jorah-mormont.jpg"
+    "family": "House Mormont",
+    "image": "https://got-api-production.up.railway.app/assets/jorah-mormont.avif",
+    "description": "Jorah Mormont, the exiled knight of House Mormont, is a man of deep honor, loyalty, and regret. Once a loyal servant to the crown, Jorah is forced into exile after betraying his homeland by selling slaves. He eventually finds redemption by pledging his allegiance to Daenerys Targaryen, becoming one of her most trusted advisors and a key protector. Though Jorah’s feelings for Daenerys evolve into a deep, unrequited love, his devotion to her cause remains steadfast, often at great personal cost. His journey is one of atonement, sacrifice, and the pursuit of redemption, ultimately choosing duty over personal desire."
   },
   {
     "id": 34,
-    "firstName": "Samwell",
-    "lastName": "Tarly",
-    "fullName": "Samwell Tarly",
-    "title": "Maester",
-    "family": "House Tarly",
-    "image": "sam.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/sam.jpg"
+    "firstName": "Gilly",
+    "lastName": "None",
+    "fullName": "Gilly",
+    "title": "The Rabbit Keeper",
+    "family": "None",
+    "image": "https://got-api-production.up.railway.app/assets/gilly.avif",
+    "description": "Gilly, a kind-hearted and resilient wildling, is the daughter of a cruel father and a member of the Free Folk. She is introduced as a slave to Craster, living in fear and isolation in the far north. After meeting Samwell Tarly, she finds a chance for a better life and begins to forge a new path, free from the horrors of her past. Gilly’s quiet strength, compassion, and determination help her navigate the harsh realities of the world, and she becomes a loving mother and a supportive ally to Sam. Her growth as a character highlights the power of love, survival, and hope in the face of adversity."
   },
   {
     "id": 35,
@@ -346,9 +345,9 @@
     "lastName": "Bolton",
     "fullName": "Ramsey Bolton",
     "title": "The Bastard of Bolton",
-    "family": "Bolton",
-    "image": "ramsey-bolton.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/ramsey-bolton.jpg"
+    "family": "House Bolton",
+    "image": "https://got-api-production.up.railway.app/assets/ramsay.avif",
+    "description": "Ramsay Bolton, the sadistic and psychotic heir to House Bolton, is one of the most feared and despised figures in Westeros. Born as a bastard, Ramsay earns his place in his father's house through cruelty and manipulation, surpassing even his father in his capacity for violence. Known for his torture and psychological games, Ramsay takes pleasure in inflicting pain on others, including his own family and enemies. His brutal treatment of Theon Greyjoy and Sansa Stark highlights his terrifying nature. Driven by a twisted desire for power and control, Ramsay’s reign of terror is short-lived, as his sadism ultimately leads to his gruesome demise."
   },
   {
     "id": 36,
@@ -356,9 +355,9 @@
     "lastName": "Stark",
     "fullName": "Talisa Stark",
     "title": "Queen Consort",
-    "family": "Stark",
-    "image": "talisa-stark.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/talisa-stark.jpg"
+    "family": "House Stark",
+    "image": "https://got-api-production.up.railway.app/assets/talisa-stark.webp",
+    "description": "Talisa Stark, originally Talisa Maegyr, is a skilled healer from Volantis who marries Robb Stark during the War of the Five Kings. Unlike many noblewomen of Westeros, Talisa is independent, compassionate, and deeply involved in the welfare of the common people, often tending to the wounded on the battlefield. Her marriage to Robb is built on love and mutual respect, and she quickly becomes an important figure in the Stark camp. Talisa’s presence offers a sense of warmth and hope amidst the brutality of war, but her tragic death at the Red Wedding underscores the brutal cost of the conflict and the fleeting nature of happiness in Westeros."
   },
   {
     "id": 37,
@@ -366,9 +365,9 @@
     "lastName": "Mormont",
     "fullName": "Jeor Mormont",
     "title": "Lord Commander of the Knight's Watch",
-    "family": "Mormont",
-    "image": "lord-commander-mormont.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/lord-commander-mormont.jpg"
+    "family": "House Mormont",
+    "image": "https://got-api-production.up.railway.app/assets/jeor-mormont.webp",
+    "description": "Jeor Mormont, known as the Old Bear, is the esteemed Lord Commander of the Night's Watch, a position he holds with honor and dedication. Once the Lord of House Mormont, Jeor gave up his lands and titles to protect the realm from the dangers beyond the Wall, embodying the values of duty and sacrifice. A seasoned and respected leader, Jeor commands the loyalty of his men, including Jon Snow, whom he mentors. Though he faces personal and political challenges, Jeor’s sense of responsibility and honor remain unwavering until his death, solidifying his legacy as one of the Night's Watch’s most respected leaders."
   },
   {
     "id": 38,
@@ -377,8 +376,8 @@
     "fullName": "The High Sparrow",
     "title": "High Septon",
     "family": "Sparrow",
-    "image": "the-high-sparrow.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/the-high-sparrow.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/high-sparrow.avif",
+    "description": "The High Sparrow is a devout and charismatic leader of the religious movement known as the Faith Militant. Rising from humble beginnings as a lowly follower, he gains immense power by appealing to the common people’s desire for justice and piety. With a strong belief in the purity of the Faith of the Seven, the High Sparrow quickly ascends to the position of High Septon, wielding significant influence over the political landscape of Westeros. His unyielding devotion to his faith and his desire to impose strict moral order lead to clashes with the ruling powers, particularly Cersei Lannister. The High Sparrow's rise to power and his ultimate downfall highlight the dangerous intersection of religion and politics in the realm."
   },
   {
     "id": 39,
@@ -386,19 +385,19 @@
     "lastName": "Martell",
     "fullName": "Oberyn Martell",
     "title": "Red Viper of Dorne",
-    "family": "Viper",
-    "image": "red-viper.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/red-viper.jpg"
+    "family": "House Martell",
+    "image": "https://got-api-production.up.railway.app/assets/oberyn.avif",
+    "description": "Oberyn Martell, known as the Red Viper, is a charismatic and fearless prince of Dorne. Known for his fiery temperament, sharp wit, and unmatched skill in combat, Oberyn is a man who values both justice and pleasure. He seeks to avenge the death of his sister, Elia Martell, and her children at the hands of the Lannisters, leading him to King's Landing as part of Tyrion Lannister's trial. Oberyn's boldness and lust for life make him a striking figure in the court, but his thirst for vengeance ultimately leads to a tragic end. His legacy lives on as a symbol of defiance, courage, and the fierce pride of House Martell."
   },
   {
     "id": 40,
     "firstName": "Melisandre",
-    "lastName": "The Red Woman",
+    "lastName": "Asshai",
     "fullName": "Melisandre",
-    "title": "Melisandre of Asshai",
+    "title": "The Red Woman",
     "family": "Unkown",
-    "image": "melisandre.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/melisandre.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/melisandre.avif",
+    "description": "Melisandre, also known as the Red Priestess, is a powerful and mysterious sorceress who follows the Lord of Light. A close advisor to Stannis Baratheon, she uses her knowledge of magic and visions to guide his claim to the throne, believing him to be the prophesied hero, the \"Prince That Was Promised.\" With her mastery of shadowbinding and her ability to see glimpses of the future, Melisandre's influence is vast, though her methods and faith in her visions are often controversial. Her unwavering belief in the Lord of Light and her manipulation of powerful forces shape much of the political landscape, but her eventual realization of her miscalculations serves as a humbling moment in her quest for truth and redemption."
   },
   {
     "id": 41,
@@ -407,8 +406,8 @@
     "fullName": "Jaqen H'ghar",
     "title": "Faceless Men of Braavos",
     "family": "Lorath",
-    "image": "jaqen-hghar.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/jaqen-hghar.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/jaqen-hghar.jpg",
+    "description": "Jaqen H'ghar is a mysterious and skilled assassin from the Faceless Men, a secretive and deadly group of killers who worship the Many-Faced God. With his calm demeanor and cryptic words, Jaqen serves as both a mentor and a test to Arya Stark, teaching her the ways of the Faceless Men and the art of assassination. Known for his ability to change his appearance at will, Jaqen is a master of disguise and deception, and his true motives remain unclear. His enigmatic nature and connection to the Faceless Men play a pivotal role in Arya’s transformation, as he guides her on her journey to seek vengeance and find her place in the world."
   },
   {
     "id": 42,
@@ -416,9 +415,9 @@
     "lastName": "Lannister",
     "fullName": "Tywin Lannister",
     "title": "Lord Paramount of Westerlands",
-    "family": "Lannister",
-    "image": "tywin-lannister.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/tywin-lannister.jpg"
+    "family": "House Lannister",
+    "image": "https://got-api-production.up.railway.app/assets/tywin-lannister.avif",
+    "description": "Tywin Lannister, the head of House Lannister and father to Jaime, Cersei, and Tyrion, is one of the most powerful and shrewd political figures in Westeros. Known for his ruthless efficiency, keen intellect, and unyielding ambition, Tywin rules with an iron fist, often making decisions that prioritize the strength and legacy of his house over all else. A master strategist, he plays a crucial role in the War of the Five Kings, securing Lannister dominance through both battle and alliances. Tywin’s cold, commanding presence and unwavering sense of duty make him a feared and respected leader, though his relationship with his children, particularly Tyrion, is fraught with tension and disdain. His death marks the end of an era for House Lannister, as his iron grip on the family and the realm slips away."
   },
   {
     "id": 43,
@@ -427,8 +426,8 @@
     "fullName": "Ellaria Sand",
     "title": "Paramour of Prince Oberyn Martell",
     "family": "Sand",
-    "image": "ellaria-sand.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/ellaria-sand.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/ellaria-sand.avif",
+    "description": "Ellaria Sand is a fierce and passionate member of House Martell, known for her fiery temperament and her deep love for Oberyn Martell. The paramour of Prince Oberyn, Ellaria becomes an influential figure in Dorne, particularly after his death. Driven by a desire for revenge against the Lannisters for her lover’s murder, she leads the Sand Snakes, her daughters by various fathers, in her quest for justice and power. Ellaria’s loyalty to her family and her ambition to secure Dorne’s position in the game of thrones often brings her into direct conflict with the ruling powers of Westeros. Her complex character is defined by her personal vendettas, her role as a mother, and her determination to see Dorne rise in prominence."
   },
   {
     "id": 44,
@@ -437,8 +436,8 @@
     "fullName": "Tormund Giantsbane",
     "title": "Free Folk Warrior",
     "family": "Free Folk",
-    "image": "tormund-giantsbane.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/tormund-giantsbane.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/tormund.avif",
+    "description": "Tormund Giantsbane is a legendary wildling warrior, known for his larger-than-life personality, fearsome reputation, and unmatched skill in battle. A leader among the Free Folk, Tormund is a charismatic and fearless figure who has led many raids against the Night’s Watch and other foes. With his fiery red beard, boisterous nature, and fondness for storytelling, he becomes a loyal ally to Jon Snow and the North. Though often brash and unfiltered, Tormund proves to be a valuable friend and a fierce defender of his people. His loyalty, humor, and strength in battle make him a memorable and beloved character in the fight against the White Walkers and the forces threatening Westeros."
   },
   {
     "id": 45,
@@ -446,9 +445,9 @@
     "lastName": "Greyjoy",
     "fullName": "Yara Greyjoy",
     "title": "Lady of the Iron Islands",
-    "family": "Greyjoy",
-    "image": "yara-greyjoy.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/yara-greyjoy.jpg"
+    "family": "House Greyjoy",
+    "image": "https://got-api-production.up.railway.app/assets/yara-greyjoy.avif",
+    "description": "Yara Greyjoy, the fierce and independent daughter of Balon Greyjoy, is a skilled warrior and leader in House Greyjoy. Known for her boldness and naval prowess, Yara commands a ship and is a key figure in the Ironborn's campaigns. She is loyal to her family but is also determined to carve out her own path, often clashing with her father's rigid vision of leadership. Throughout the series, Yara's bravery and resourcefulness shine, particularly when she allies with Daenerys Targaryen to help secure a stronger position for the Ironborn. Fiercely protective of her brother, Theon, Yara’s journey highlights her strength, loyalty, and desire for power in a world dominated by men."
   },
   {
     "id": 46,
@@ -456,9 +455,9 @@
     "lastName": "Greyjoy",
     "fullName": "Euron Greyjoy",
     "title": "King of the iron Islands",
-    "family": "Greyjoy",
-    "image": "euron-greyjoy.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/euron-greyjoy.jpg"
+    "family": "House Greyjoy",
+    "image": "https://got-api-production.up.railway.app/assets/euron-greyjoy.avif",
+    "description": "Euron Greyjoy, the ambitious and ruthless brother of Balon Greyjoy, is a notorious pirate and leader of the Ironborn. Known for his cunning, cruelty, and thirst for power, Euron quickly rises to become the self-declared King of the Iron Islands after his brother’s death. With a volatile personality and a lust for domination, Euron seeks to expand his influence across Westeros, forging alliances with dangerous figures like Cersei Lannister. His unpredictable nature, charisma, and violent tendencies make him a formidable antagonist, willing to use any means necessary to achieve his goals. Euron’s dark and merciless character leaves a trail of chaos, driving his quest for supremacy in the realm."
   },
   {
     "id": 47,
@@ -466,19 +465,19 @@
     "lastName": "Hodor",
     "fullName": "Hodor",
     "title": "Servant of House Stark",
-    "family": "Stark",
-    "image": "hodor.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/hodor.jpg"
+    "family": "House Stark",
+    "image": "https://got-api-production.up.railway.app/assets/hodor.avif",
+    "description": "Hodor, born Wylis, is a simple-minded but deeply loyal servant of House Stark, known for his unique ability to say only the word \"Hodor.\" Raised at Winterfell, Hodor is beloved by the Stark children, especially Bran, whom he assists in countless ways, including carrying them during their travels. While Hodor’s origins are shrouded in mystery, it is later revealed that his condition is the tragic result of Bran Stark's warging abilities, inadvertently causing Wylis to experience future events in his mind, leading to his limited speech. Despite his tragic fate, Hodor is remembered as a symbol of love, sacrifice, and the deep bonds that tie the Stark family together."
   },
   {
     "id": 48,
-    "firstName": "",
+    "firstName": "Grand Maester",
     "lastName": "Pycelle",
-    "fullName": "Pycelle",
+    "fullName": "Grand Maester Pycelle",
     "title": "Grand Maester of the Seven Kingdoms",
     "family": "",
-    "image": "pycelle.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/pycelle.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/maester-pycelle.avif",
+    "description": "Grand Maester Pycelle is the elderly and deeply entrenched maester at the Red Keep, serving as a trusted advisor to the royal family for many years. Known for his long tenure and vast knowledge of medicine, history, and the workings of the realm, Pycelle is a manipulative figure who often plays both sides of the political game. Despite his appearance of being a wise and devoted servant, he is a schemer who aligns himself with those who can further his position, particularly the Lannisters. Pycelle’s age and feigned meekness mask his true cunning nature, and his eventual demise highlights the dangers of underestimating those who play the game of thrones from the shadows."
   },
   {
     "id": 49,
@@ -486,9 +485,9 @@
     "lastName": "Worm",
     "fullName": "Grey Worm",
     "title": "Commander of the Unsullied",
-    "family": "Worm",
-    "image": "greyworm.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/greyworm.jpg"
+    "family": "Unsullied",
+    "image": "https://got-api-production.up.railway.app/assets/grey-worm.avif",
+    "description": "Grey Worm is the leader of the Unsullied, a highly trained and disciplined army of slave soldiers, known for their unwavering loyalty, skill in combat, and emotional restraint. Freed from his chains by Daenerys Targaryen, Grey Worm becomes one of her most trusted commanders, fighting fiercely to protect her and her cause. Though stoic and disciplined, Grey Worm reveals a more human side through his bond with Missandei, showcasing his capacity for love and vulnerability. His commitment to Daenerys and the fight for freedom and justice makes him a key figure in her campaign, with his loyalty and strength playing a critical role in the battle for the Iron Throne."
   },
   {
     "id": 50,
@@ -496,19 +495,19 @@
     "lastName": "Tyrell",
     "fullName": "Olenna Tyrell",
     "title": "Queen of Thorns",
-    "family": "Tyrell",
-    "image": "olenna-tyrell.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/olenna-tyrell.jpg"
+    "family": "House Tyrell",
+    "image": "https://got-api-production.up.railway.app/assets/olenna-tyrell.avif",
+    "description": "Olenna Tyrell, the sharp-witted and calculating matriarch of House Tyrell, is one of the most formidable political minds in Westeros. Known as the \"Queen of Thorns\" for her biting remarks and clever maneuvering, Olenna is a master of diplomacy and strategy. Fiercely protective of her children and grandchildren, especially Margaery, she plays a key role in navigating the dangerous political landscape of King's Landing. Though she often hides her true intentions behind a veil of kindness and charm, Olenna is not afraid to take drastic measures to secure the future of her family. Her boldness and cunning make her a respected and feared figure in the power struggles of the Seven Kingdoms."
   },
   {
     "id": 51,
     "firstName": "Qyburn",
     "lastName": "Grand Maester",
-    "fullName": "Qyburn",
+    "fullName": "Grand Maester Qyburn",
     "title": "Former maester of the Citadel",
     "family": "Qyburn",
-    "image": "qyburn.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/qyburn.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/qyburn.avif",
+    "description": "Qyburn is a former maester whose thirst for forbidden knowledge leads him down a dark and twisted path. Stripped of his chains for conducting unethical experiments, Qyburn becomes an ally to Cersei Lannister, using his skills in both medicine and necromancy to further her ambitions. With his unsettling demeanor and fascination with death, Qyburn is responsible for some of the most disturbing creations in Westeros, including the resurrection of Gregor Clegane, the Mountain. A master manipulator and ruthless in his pursuit of power, Qyburn’s willingness to disregard ethics and embrace dark science makes him a dangerous and unpredictable figure in the game of thrones."
   },
   {
     "id": 52,
@@ -517,8 +516,8 @@
     "fullName": "Lord Bronn",
     "title": "Lord of Highgarden",
     "family": "Bronn",
-    "image": "bronn.jpg",
-    "imageUrl": "https://thronesapi.com/assets/images/bronn.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/bronn.avif",
+    "description": "Bronn is a quick-witted and resourceful sellsword known for his pragmatism, sharp tongue, and undeniable skill in combat. Initially hired to fight for Tyrion Lannister during his trial by combat, Bronn's loyalty lies primarily with gold and self-preservation, rather than any higher cause. His carefree attitude and knack for survival allow him to rise in prominence, often forming alliances with powerful figures like Tyrion and Jaime Lannister. Despite his lack of noble ideals, Bronn proves to be a shrewd and capable fighter, always finding a way to come out on top in the ruthless world of Westeros. His love of wealth, comfort, and freedom make him a memorable and unpredictable figure in the game of thrones."
   }
 
 ]
