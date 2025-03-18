@@ -6,9 +6,8 @@
     "fullName": "Daenerys Targaryen",
     "title": "Mother of Dragons",
     "family": "House Targaryen",
-    "image": "daenerys.jpg",
-    "description": "Daenerys Targaryen, known as the Mother of Dragons, is the last surviving member of House Targaryen. Born into exile, she rises from humble beginnings to become a powerful and determined ruler. With her dragons by her side, Daenerys fights to reclaim the Iron Throne and restore her family’s legacy. Compassionate yet fiercely ambitious, she seeks to end slavery and bring justice to the oppressed, but her path is often fraught with difficult choices and moral dilemmas. Daenerys’s journey is one of growth, sacrifice, and an unyielding quest for power.",
-    "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg"
+    "image": "https://got-api-production.up.railway.app/assets/daenarys.webp",
+    "description": "Daenerys Targaryen, known as the Mother of Dragons, is the last surviving member of House Targaryen. Born into exile, she rises from humble beginnings to become a powerful and determined ruler. With her dragons by her side, Daenerys fights to reclaim the Iron Throne and restore her family’s legacy. Compassionate yet fiercely ambitious, she seeks to end slavery and bring justice to the oppressed, but her path is often fraught with difficult choices and moral dilemmas. Daenerys’s journey is one of growth, sacrifice, and an unyielding quest for power."
   },
   {
     "id": 2,
@@ -17,7 +16,7 @@
     "fullName": "Jon Snow",
     "title": "King of the North",
     "family": "House Stark",
-    "image": "jon-snow.jpg",
+    "image": "https://got-api-production.up.railway.app/assets/john-snow.avif",
     "description": "Jon Snow, the enigmatic and honorable son of Ned Stark, is raised as a Stark but carries the burden of being a “bastard.” Joining the Night’s Watch to defend the realm from the dangers beyond the Wall, Jon rises through the ranks due to his leadership, bravery, and sense of duty. As the series unfolds, he learns of his true heritage and becomes a key figure in the fight against the growing threat of the White Walkers. Jon’s journey is marked by his struggle between duty and personal desires, forging his identity as both a leader and a protector of the realm.",
     "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg"
   },
