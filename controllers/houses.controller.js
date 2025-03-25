@@ -17,7 +17,7 @@ export const getHouses = async (req, res) => {
   
       if(!house)
       {
-        return res.status(404).json({message: "Post Not Found"})
+        return res.status(404).json({message: "House Not Found"})
       }
   
       res.status(200).json(house);

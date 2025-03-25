@@ -6,6 +6,7 @@ import { fileURLToPath } from 'url';
 import path from 'path';
 import characterRoute from './routes/character.route.js'
 import houseRoute from './routes/house.route.js'
+import authRoutes from './routes/auth.route.js'
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -25,6 +26,8 @@ app.use('/assets', express.static(path.join(__dirname, 'assets')));
 app.use('/api/characters', characterRoute)
 
 app.use('/api/houses', houseRoute)
+
+app.use("/api/auth", authRoutes)
 
 app.get('/', (req, res) => {
     res.send('Welcome to the Game of Thrones API!');

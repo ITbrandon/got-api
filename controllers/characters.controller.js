@@ -17,7 +17,7 @@ export const getCharacters = async (req, res) => {
   
       if(!character)
       {
-        return res.status(404).json({message: "Post Not Found"})
+        return res.status(404).json({message: "Character Not Found"})
       }
   
       res.status(200).json(character);
