@@ -27,7 +27,7 @@ app.use('/api/characters', characterRoute)
 
 app.use('/api/houses', houseRoute)
 
-app.use("/api/auth", authRoutes)
+app.use('/api/auth', authRoutes)
 
 app.get('/', (req, res) => {
     res.send('Welcome to the Game of Thrones API!');
