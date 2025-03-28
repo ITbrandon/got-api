@@ -6,15 +6,16 @@ import nodemailer from 'nodemailer'
 
 export const registerUser = async (req, res) => {
     try {
-        const {username, password} = req.body;
+        const {email, username, password} = req.body;
 
-        const existingUser = await users.findOne({ username });
+        const existingUsername = await users.findOne({ username });
+        const existingUserEmail = await users.findOne({ email });
 
-        if (existingUser) {
-            return res.status(400).json({ message: "Username already exists" });
+        if (existingUsername || existingUserEmail) {
+            return res.status(400).json({ message: "User already exists" });
         }
 
-        const newUser = new users({username, password})
+        const newUser = new users({email, username, password})
         await newUser.save()
 
         res.status(201).json({ message: "User registered successfully" });
