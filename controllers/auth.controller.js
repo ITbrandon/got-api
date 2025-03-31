@@ -51,6 +51,41 @@ export const loginUser = async (req, res) => {
     }
 };
 
+export const forgetUsername = async (req, res) => {
+    try {
+        const { email } = req.body
+
+        const user = await users.findOne({ email });
+
+        if (!user) {
+            return res.status(404).json({ message: "User not found" });
+        }
+
+        const transporter = nodemailer.createTransport({
+            service: "gmail",
+            auth: {
+                user: process.env.EMAIL_USER, 
+                pass: process.env.EMAIL_PASS, 
+            },
+        });
+
+        const mailOptions = {
+            from: process.env.EMAIL_USER,
+            to: email,
+            subject: "Here is Your Username",
+            text: `Hello, your username is: ${user.username}`,
+        };
+
+        await transporter.sendMail(mailOptions)
+
+        res.json({ message: "Username sent to your email" });
+    }
+
+    catch(error) {
+        res.status(500).json({ message: error.message });
+    }
+}
+
 export const forgetPassword = async (req, res) => {
     try {
         const { email } = req.body
