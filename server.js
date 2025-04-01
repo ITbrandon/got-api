@@ -14,7 +14,7 @@ const port = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 app.use(cors({
-  origin: 'https://67eb6a64fba39037814e400d--comfy-taffy-542654.netlify.app/',
+  origin: 'https://comfy-taffy-542654.netlify.app',
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true
