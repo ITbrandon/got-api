@@ -135,6 +135,10 @@ export const resetPassword = async (req, res) => {
             return res.status(400).json({ message: "Invalid or expired token" });
         }
 
+        if (user.password === newPassword) {
+            return res.status(400).json({ message: "Must change to a different password" });
+        }
+
         user.password = newPassword;
         await user.save();
 
