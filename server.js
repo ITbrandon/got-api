@@ -29,7 +29,7 @@ app.use('/api/characters', characterRoute)
 
 app.use('/api/houses', houseRoute)
 
-app.use('/api/subcribe', subscriberRoute)
+app.use('/api/subscribe', subscriberRoute)
 
 app.use('/api/auth', authRoutes)
 
