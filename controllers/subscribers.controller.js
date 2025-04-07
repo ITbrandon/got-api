@@ -1,4 +1,4 @@
-import subscribers from "../models/subscribers.model"
+import subscribers from "../models/subscribers.model.js"
 
 export const subscribeToNewsLetter = async (req, res) => {
     try {
