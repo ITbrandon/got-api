@@ -3,6 +3,6 @@ import { subscribeToNewsLetter } from '../controllers/subscribers.controller.js'
 
 const router = express.Router();
 
-router.get("/", subscribeToNewsLetter)
+router.post("/", subscribeToNewsLetter)
 
 export default router

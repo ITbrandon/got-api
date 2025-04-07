@@ -7,7 +7,7 @@ export const subscribeToNewsLetter = async (req, res) => {
         const existingSubscriber = await subscribers.findOne({ email })
 
         if (existingSubscriber) {
-            return res.status(404).json({ message: "Email Already Subscribed" });
+            return res.status(409).json({ message: "Email Already Subscribed" });
         }
 
         const newSubscriber = new subscribers({ email });
